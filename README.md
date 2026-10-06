@@ -1,1 +1,2 @@
-"Blake Carls" 
+Blake Carls
+carlsb@oregonstate.edu
